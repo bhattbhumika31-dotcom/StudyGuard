@@ -2,7 +2,7 @@
 """StudyGuard Bot - Automated YouTube learning assistant with focus timer."""
 
 import logging
-import threading
+import threading 
 import time
 import tkinter as tk
 from typing import Optional, Tuple, Dict
