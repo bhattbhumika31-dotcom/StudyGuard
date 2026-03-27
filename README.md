@@ -1,6 +1,6 @@
-# StudyGuard 🎯
+# StudyGuard 
 
-A smart YouTube learning assistant that automates video search, skips ads, and enforces focus breaks to help students maintain productive study sessions.
+A YouTube learning assistant that automates video search, skips ads, and enforces focus breaks to help students maintain productive study sessions.
 
 ## Features
 
