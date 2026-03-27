@@ -1,4 +1,4 @@
-# gui.py
+
 """StudyGuard GUI - User interface for the StudyGuard learning assistant."""
 
 import logging
